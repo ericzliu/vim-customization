@@ -45,3 +45,6 @@ f/b
 
 ## How to check runtimepath?
 :set runtimepath?
+
+## What's VimRubySupport?
+Checkout https://github.com/vim-ruby/vim-ruby/wiki/VimRubySupport
