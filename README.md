@@ -42,3 +42,6 @@ control + b
 
 ## How to move forward/backward by word?
 f/b
+
+## How to check runtimepath?
+:set runtimepath?
