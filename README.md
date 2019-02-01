@@ -39,3 +39,6 @@ control + b
 
 ## How to turn off line number?
 :set nonumber
+
+## How to move forward/backward by word?
+f/b
