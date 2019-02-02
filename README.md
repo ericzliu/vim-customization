@@ -51,3 +51,8 @@ Checkout https://github.com/vim-ruby/vim-ruby/wiki/VimRubySupport
 
 ## How do I list loaded plugins in vim?
 https://stackoverflow.com/questions/48933/how-do-i-list-loaded-plugins-in-vim
+
+## How to tab forward/backward?
+If you're in insert mode:
+- control + d
+- control + t
