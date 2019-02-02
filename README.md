@@ -56,3 +56,9 @@ https://stackoverflow.com/questions/48933/how-do-i-list-loaded-plugins-in-vim
 If you're in insert mode:
 - control + d
 - control + t
+
+## How to split window and load another file?
+:split filename
+
+## How to move cursor to another window?
+control + w then up/down/left/right
